@@ -17,6 +17,7 @@ Connections. The biggest names in the tech industry and the Gov 2.0 movement wil
 * **Professional Development.** You will develop lasting relationships, learn new skills and languages in a fast-paced, startup atmosphere.
 * **Autonomy.** Working in small teams with talented individuals you’ll decide what you build and how you build it — from start to finish.
 * **A Labor of Love.** You’ll not only accomplish a lot and make the world a better place, but you’ll have a lot of fun working with other passionate people.
+
 Applications are being accepted until July 31, 2013. This is an 11-month, full-time fellowship located in San Francisco. See http://codeforamerica.org/fellows for more information.
 
 Apply online at: http://codeforamerica.org/apply
