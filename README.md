@@ -21,3 +21,5 @@ Connections. The biggest names in the tech industry and the Gov 2.0 movement wil
 Applications are being accepted until July 31, 2013. This is an 11-month, full-time fellowship located in San Francisco. See http://codeforamerica.org/fellows for more information.
 
 Apply online at: http://codeforamerica.org/apply
+
+Questions? [Open an issue!](https://github.com/codeforamerica/apply/issues)
