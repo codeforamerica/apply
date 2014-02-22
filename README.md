@@ -1,7 +1,7 @@
 ### Technologists Wanted to Create New Apps for Our Cities
 
 
-Are you a hacker with a huge heart? Code for America is looking for developers, designers, researchers, and product managers for its 2014 Fellowship.
+Are you a hacker with a huge heart? Code for America is looking for developers, designers, researchers, and product managers for its 2015 Fellowship.
 
 If you want to make a difference while doing what you love to do, this is your chance — build apps that help municipal governments work better.
 
@@ -18,7 +18,7 @@ Connections. The biggest names in the tech industry and the Gov 2.0 movement wil
 * **Autonomy.** Working in small teams with talented individuals you’ll decide what you build and how you build it — from start to finish.
 * **A Labor of Love.** You’ll not only accomplish a lot and make the world a better place, but you’ll have a lot of fun working with other passionate people.
 
-Applications are being accepted until July 31, 2013. This is an 11-month, full-time fellowship located in San Francisco. See http://codeforamerica.org/fellows for more information.
+Applications are being accepted until July 31, 2014. This is an 11-month, full-time fellowship located in San Francisco. See http://codeforamerica.org/fellows for more information.
 
 Apply online at: http://codeforamerica.org/apply
 
