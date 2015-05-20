@@ -1,25 +1,25 @@
-### Technologists Wanted to Create New Apps for Our Cities
+# Fix Things that Matter
 
+**What:** The Code for America fellowship is a full-time paid year of service for experienced technologists. Cross-functional teams of three are embedded in local governments to develop digital tools that help cities and counties deliver key public services across health, economic development, and safety and justice.
 
-Are you a hacker with a huge heart? Code for America is looking for developers, designers, researchers, and product managers for its 2015 Fellowship.
+**Why:** The Fellowship is your chance to use your skills to directly impact everyday people’s lives. Fellows have improved the permitting processes for small business owners, made it easy for parents to enroll their children in schools, connected families with food assistance, and helped people avoid unnecessary bench warrants.
 
-If you want to make a difference while doing what you love to do, this is your chance — build apps that help municipal governments work better.
+**Who:** Fellows come from a range of fields including software development, design, data science, product management, and GIS. Fellows are curious, creative, entrepreneurial, and have a demonstrated commitment to teamwork and respectful communication. We welcome and support technologists from traditionally underrepresented communities. The one restriction: you must be eligible to work in the United States in 2016.
 
-Cities are under greater pressure than ever, struggling with budget cuts and outdated technology. That’s why Code for America is connecting talented technologists with municipal governments to create and implement new web apps and explore new ways of resolving local challenges.
+**Where:** Fellows are based in San Francisco with extensive travel to their assigned City, including a month of residency in February 2015.
 
-During previous years fellows have tackled problems such as criminal justice in NYC, economic development in Santa Cruz, Calif., and 311 in Chicago.
+**When:** The 2016 Fellowship begins on January 6th in San Francisco and runs through November 18th.
 
-CfA fellows come from a variety of backgrounds and experiences from high-profile positions at Google, Apple, and Microsoft to smaller startups to municipal government.
+## The Details
 
-**Why Become a CfA Fellow?**
-* **Gov 2.0 Training.** You will start with a crash course in municipal government and gain practical understanding of the vital intersection of government and technology.
-Connections. The biggest names in the tech industry and the Gov 2.0 movement will provide you with unparalleled networking, mentoring, and support.
-* **Professional Development.** You will develop lasting relationships, learn new skills and languages in a fast-paced, startup atmosphere.
-* **Autonomy.** Working in small teams with talented individuals you’ll decide what you build and how you build it — from start to finish.
-* **A Labor of Love.** You’ll not only accomplish a lot and make the world a better place, but you’ll have a lot of fun working with other passionate people.
+**Salary:** $50,000 — plus benefits and travel costs.
 
-Applications are being accepted until July 15, 2014, at 11:59PM. This is an 11-month, full-time fellowship located in San Francisco. See http://codeforamerica.org/fellows for more information.
+**Location:** Fellows work out of the Code for America headquarters at 155 9th St in San Francisco, and should expect to spend 25-30% of their time traveling.
 
-Apply online at: http://codeforamerica.org/apply
+**Application Timeline:** Applications will be reviewed on a rolling basis and will close on July 15, 2015. We will begin interviewing applicants in mid-June, and selections will be made by the end of August.
 
-Questions? [Open an issue!](https://github.com/codeforamerica/apply/issues)
+**How to Apply:** Start by submitting an interest form. Once complete, you will receive an email to complete a full application. The application asks for basic information, a resume, a few questions about your interest in becoming a fellow and about your background, and a quick skill assessment. Should you pass the first round, you will be contacted for follow up interviews.
+
+### [Apply today!](http://www.codeforamerica.org/geeks/fellowship-apply/)
+
+Questions for former fellows or fellowship staff? [**Open an issue in this repo.**](https://github.com/codeforamerica/apply/issues)
