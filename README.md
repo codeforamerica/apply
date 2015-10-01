@@ -20,6 +20,8 @@
 
 **How to Apply:** Start by submitting an interest form. Once complete, you will receive an email to complete a full application. The application asks for basic information, a resume, a few questions about your interest in becoming a fellow and about your background, and a quick skill assessment. Should you pass the first round, you will be contacted for follow up interviews.
 
+We now have rolling admissions incase you missed the deadline!
+
 ### [Apply today!](http://www.codeforamerica.org/geeks/fellowship-apply/)
 
 Questions for former fellows or fellowship staff? [**Open an issue in this repo.**](https://github.com/codeforamerica/apply/issues)
